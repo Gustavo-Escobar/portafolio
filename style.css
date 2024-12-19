@@ -661,7 +661,7 @@ progress:-moz-progress-bar{
 
    .services > .container{
     display: grid;
-    grid-template-columns: repeat(2, 45%);
+    grid-template-columns: repeat(2, 30%);
     justify-content: space-between;
     align-content: center;
    }
